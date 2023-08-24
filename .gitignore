@@ -366,3 +366,6 @@ MigrationBackup/
 
 # Mac-specific
 .DS_Store
+
+# Pickle files
+*.pkl*
